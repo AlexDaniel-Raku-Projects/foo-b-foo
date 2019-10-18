@@ -1,3 +1,3 @@
-## Foo::<b>Foo
+## `Foo::<b>Foo`
 
 A module with `<b>` in its name.
