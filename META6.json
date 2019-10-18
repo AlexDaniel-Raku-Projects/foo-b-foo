@@ -5,7 +5,7 @@
     "api" : "1",
     "version" : "0.0.1",
     "description" : "A module with `<b>` in its name.",
-    "authors" : [ "Aleks-Daniel Jakimenko-Aleksejev" ],
+    "authors" : [ "Aleks-Daniel <b>Jakimenko-Aleksejev" ],
     "license" : "GPL-3.0-or-later",
     "provides" : {
         "Foo::<b>Foo" : "lib/Foo/<b>Foo.pm6"
